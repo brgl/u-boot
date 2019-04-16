@@ -22,7 +22,6 @@
 */
 #ifdef CONFIG_SPL_BUILD
 #undef CONFIG_DM_I2C
-#undef CONFIG_DM_I2C_COMPAT
 #endif
 /*
  * SoC Configuration
