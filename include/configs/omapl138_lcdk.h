@@ -271,7 +271,7 @@
 #define CONFIG_SPL_STACK	0x8001ff00
 #define CONFIG_SPL_TEXT_BASE	0x80000000
 #define CONFIG_SPL_MAX_FOOTPRINT	32768
-#define CONFIG_SPL_PAD_TO	32768
+#define CONFIG_SPL_PAD_TO	0x8000
 #endif
 
 /* additions for new relocation code, must added to all boards */
