@@ -12,8 +12,6 @@
 #include <i2c.h>
 #include <net.h>
 #include <netdev.h>
-#include <spi.h>
-#include <spi_flash.h>
 #include <asm/arch/hardware.h>
 #include <asm/ti-common/davinci_nand.h>
 #include <asm/io.h>
